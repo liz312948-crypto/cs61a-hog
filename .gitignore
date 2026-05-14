@@ -1,0 +1,16 @@
+﻿__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.ok_history
+.ok_storage.bak
+.ok_storage.dat
+.ok_storage.dir
+ok
+
+tests/__pycache__/
+gui_files/__pycache__/
+
+.DS_Store
+Thumbs.db
